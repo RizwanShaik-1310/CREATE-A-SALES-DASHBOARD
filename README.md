@@ -91,3 +91,7 @@ These insights were made actionable and visual using Power BI’s built-in visua
 - Visual Hierarchies & Drill-throughs
 - Use of Filters & Slicers for interactivity
 - Business storytelling through visuals
+
+## OUTPUT of the task
+
+![Image](https://github.com/user-attachments/assets/96319840-83e7-482e-9f0c-226eb107e43e)
